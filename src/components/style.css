@@ -1,0 +1,14 @@
+.parent{
+    font-weight:bolder;
+    font-style:italic;
+    color:black;
+    text-align:center;
+}
+.p{
+    color:green;
+    font-family:oblique;
+}
+.child_component{
+    width:auto;
+    height:2000px;
+}
